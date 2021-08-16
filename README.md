@@ -16,7 +16,7 @@ Fundamental of data analytics, foundation of data scientists, data analytic proc
 2. EMC Education Services. (2015). Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data. Wiley.
 3. Godsey, B. (2017). Think like a data scientist. Manning Publications Co.
 
-**Course Contents**
+**Midterm**
 
 ⚠ No class: Jul 28, 2021
 
@@ -31,6 +31,8 @@ Fundamental of data analytics, foundation of data scientists, data analytic proc
 | 7    | Aug 11, 2021 | Data Science Process – The Historical view from KDD to Modern Processes |
 | 8    | Aug 11, 2021 | Data Science Process in Action |
 | 9    | Aug 18, 2021 | **Midterm Examination** |
+
+**Final**
 
 | Week | Date | Topics |
 | ---  | ---  | ---    |
