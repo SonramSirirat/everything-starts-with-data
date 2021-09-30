@@ -43,7 +43,7 @@ Fundamental of data analytics, foundation of data scientists, data analytic proc
 | 14   |      | Case Study - I |
 | 15   |      | Case Study - II |
 | 16   |      | Closing |
-| 17   |      | **Final Examination** |
+| 17   | Oct 24, 2021 | **Final Examination** |
 
 **Note:** Some topics of the aforementioned contents might be subject to change or add. The notice will be announced in the course website.
 
